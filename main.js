@@ -326,4 +326,4 @@ client.on('message', message => {
 // ----------------- //
 
 // Logging into the bot
-client.login('ODYwOTkyNDYzMzQ1OTQyNTI5.YODTtw.JRbe3TkW7ER9D9Y2LnkFcY4uUyc')
+client.login('heh you really thought')
