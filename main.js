@@ -136,7 +136,7 @@ client.on('message', async message => {
     }
 });
 
-mongoose.connect("mongodb+srv://TheDylanator:Dylan0411@lrbot.vzk9w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
+mongoose.connect("LOL u really thought nah this aint a charity for databases bro", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
